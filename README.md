@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for
 
 ## 🌐 Live Demo
 
-**🔗 Live Application:** https://smart-hcp-logger-fxum.vercel.app/
+**🔗 Live Application:** https://ai-hcp-interaction-crm-assistant-ic.vercel.app/
 
 ---
 
@@ -469,9 +469,8 @@ Suggest Follow-up Tool
 
 **Harish Kumar**
 
-GitHub: https://github.com/Harish-Uta17
+GitHub: https://github.com/utachandrikapriya/
 
-LinkedIn: https://www.linkedin.com/in/harish-uta17/
 
 ---
 
