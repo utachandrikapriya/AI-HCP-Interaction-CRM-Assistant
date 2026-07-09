@@ -467,7 +467,7 @@ Suggest Follow-up Tool
 
 # 👨‍💻 Author
 
-**Harish Kumar**
+**uta chandrika**
 
 GitHub: https://github.com/utachandrikapriya/
 
