@@ -350,7 +350,7 @@ python test_agent.py
 
 ## Live Demo
 
-https://smart-hcp-logger-fxum.vercel.app/
+https://ai-hcp-interaction-crm-assistant-ic.vercel.app/
 
 ---
 
